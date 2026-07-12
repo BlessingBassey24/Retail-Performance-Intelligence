@@ -53,11 +53,6 @@ Explored the dataset to answer the following questions:
 - The least 4 products that was in low demand were; Laptop Stand, Usb-C Hub, Graphics Tablet, and Smartphone Charger.
 - Bluetooth speakers, and Webcam also generated a high sales for the company, with a percentage revenue of 36.02% and 13.00%.
 ### Dashboard Visuals
-<img width="1366" height="768" alt="Power Quary Site" src="https://github.com/user-attachments/assets/5f2f36c8-0425-4a01-a08b-1da005f44a7e" />
-
-<img width="265" height="557" alt="Applied Steps" src="https://github.com/user-attachments/assets/1df1024d-1a57-4787-9df7-49c7c872d758" />
-
-<img width="1366" height="526" alt="Merged dataset" src="https://github.com/user-attachments/assets/c8bab27e-fa86-4435-a72e-d3db81e697ff" />
 
 <img width="1322" height="437" alt="Retail Performance Dashboard" src="https://github.com/user-attachments/assets/afa92ffb-41d0-471f-97ab-3d967985d8fe" />
 
