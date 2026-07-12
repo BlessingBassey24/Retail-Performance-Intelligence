@@ -14,12 +14,12 @@
 ALTSchool Capstone Project, Retail Performance Intelligence aims to solve business problem where I get to provide business analytics solution by, monitoring business performance, Identifying growth opportunities, detecting underperforming products and supporting executive decision-making through interactive dashboards.
 ### Dataset Description.
 The dataset provided by ALTSchool are 4 different tables (Sales, Product, Customer and Region) to be merged into a parent table (Sales) include the following key Product details: product name, product id, order number, order date, month name, month year, quarter, ship date. Customer engagement: customer id, channel, currency code, wayhouse code, delivery region, total revenue, order quantity. Regions: region id, city, territory etc. Each table represent unique id with aggregated reviewer data stored as Excel file. A total record of 26 columns and 7972 rows.
-### Tools Used.
+### ⚒Tools Used.
 **Microsoft Excel**
 - For data cleaning
 - For power quary transformation
 - For pivot tables and dashboards
-### Data Cleaning and Transformation.
+### 🧹Data Cleaning and Transformation.
 The data cleaning and transformation was done using Power Quary, where I performed the following:
 - Data loading and inspection 
 - Merged all tables before cleaning
@@ -27,18 +27,18 @@ The data cleaning and transformation was done using Power Quary, where I perform
 - Perform data validation by checking Column quality 
 - Duplicated and Split the Order Date column into Month Name, Month Year and Quarter
 - Added a custom column to caculate the Total Revenue
-### Key Matrics
+### 📊Key Matrics
 | Metrics | Value |
 |--- | --- |
-| Total Revenue | 154573140.6 |
-| Total Order | 67579 |
-| Average Order | 8.456889 |
-| Total Customers | 50 |
-| Total Product | 14 |
+| 💰Total Revenue | 154573140.6 |
+| 🛒Total Order | 67579 |
+| 📑Average Order | 8.456889 |
+| 👫Total Customers | 50 |
+| 🪎Total Product | 14 |
 | 2014 Revenue | 35040899.5 |
 | 2015 Revenue | 59394340.9 |
 | 2016 Revenue |60137900.2 |
-### Exploratory Data Analysis 
+### 🔬Exploratory Data Analysis 
 Explored the dataset to answer the following questions:
 - The top performing product
 - The total revenue generated
@@ -46,7 +46,7 @@ Explored the dataset to answer the following questions:
 - Quarter-Over-Quarter growth
 - The brands that contributed worst to sales
 - The best and the worst performing month
-### Key Business Insights
+### 📊Key Business Insights
 - Portable Ssd generated the majority of the revenue with a total of 25710124.4 and a percentage of 100%.
 - The business generated 154.6 million in total sales with a total order of 67579
 - Laptop stand generated the least revenue for the company with the sum of 2857288.7 and had a very low percent of 11.11%.
