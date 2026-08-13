@@ -1,6 +1,8 @@
 # Project Topic: Retail-Performance-Intelligence.
 ## Table of content.
 - [Project Overview](#project-overview)
+- [Business Problem](#business-problem)
+- [Project Objective](#project-objective)
 - [Dataset Description](#dataset-description)
 - [Tools Used](#tools-used)
 - [Data Cleaning and Transformation](#data-cleaning-and-transformation)
@@ -12,6 +14,10 @@
 - [Conclusion](conclusion)
 ## Project Overview.
 ALTSchool Capstone Project, Retail Performance Intelligence aims to solve business problem where I get to provide business analytics solution by, monitoring business performance, Identifying growth opportunities, detecting underperforming products and supporting executive decision-making through interactive dashboards.
+### Business Problem
+The retail business generates substantial sales data across products, customers, orders, and regions, but lacks a centralized view for effectively monitoring performance and identifying areas requiring attention. This makes it difficult for management to quickly determine which products, periods, and business segments are driving revenue and which are underperforming.
+### Project Objective 
+The objective of this project is to transform fragmented retail data into actionable business intelligence that enables management to monitor revenue performance, identify growth opportunities, detect underperforming products, analyze sales trends, and make more informed, data-driven decisions.
 ### Dataset Description.
 The dataset provided by ALTSchool are 4 different tables (Sales, Product, Customer and Region) to be merged into a parent table (Sales) include the following key Product details: product name, product id, order number, order date, month name, month year, quarter, ship date. Customer engagement: customer id, channel, currency code, wayhouse code, delivery region, total revenue, order quantity. Regions: region id, city, territory etc. Each table represent unique id with aggregated reviewer data stored as Excel file. A total record of 26 columns and 7972 rows.
 ### ⚒Tools Used.
